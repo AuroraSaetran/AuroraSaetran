@@ -1,6 +1,9 @@
 ## Hi there, I'm Aurora 👋
 
-My www.linkedin.com/in/aurorasaetran
+I am a masterstudent at Western Norway University of Applied Sciences, currently enrolled in ICT Engineering: Applied Computer Science and Engineering, Engineering Science Specialisation.
 
-I am a masterstudent at HVL in Bergen.
-Spring 2024 I finished my bachelor degree in software development at HVL, and now I want to learn more abou IOT and cyber-physical systems. My current projects include a lamp that responds to input from another lamp and more. 
+Earlier projects include:
+A mobileapplication in React Native with firebase for my bachelor thesis (https://hdl.handle.net/11250/3143703)
+
+Current projects include: 
+Lamps built with arduinos and 3D-printing that can respond to input on the other lamp
