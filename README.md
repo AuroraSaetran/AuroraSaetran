@@ -6,4 +6,4 @@ Earlier projects include:
 A mobileapplication in React Native with firebase for my bachelor thesis (https://hdl.handle.net/11250/3143703)
 
 Current projects include: 
-Lamps built with arduinos and 3D-printing that can respond to input on the other lamp
+Masterthesis
